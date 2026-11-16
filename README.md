@@ -1,8 +1,8 @@
 # Canadian internships, co-ops and new-grad roles
 
-Pulled automatically from public company job boards by [Campus Talent](https://www.joincampustalent.com). Updated daily.
+Pulled automatically from public company job boards by [Campus Talent](https://campustalent.ca). Updated daily.
 
-**28 open roles** · last updated 2026-11-16 17:18 UTC
+**28 open roles** · last updated 2026-11-16 19:06 UTC
 
 | Company | Role | Location |
 |---|---|---|
@@ -35,4 +35,4 @@ Pulled automatically from public company job boards by [Campus Talent](https://w
 | stripe | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805) | Toronto |
 | stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8157838) | Toronto |
 
-Want the best of these in your inbox every week? [Join the free weekly list](https://www.joincampustalent.com/roles.html).
+Want the best of these in your inbox every week? [Join the free weekly list](https://campustalent.ca/roles.html).
