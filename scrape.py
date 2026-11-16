@@ -13,7 +13,7 @@ CANADA = re.compile(
     r"victoria|quebec|qu[eé]bec|mississauga|burnaby|saskatoon|regina|\b(ON|BC|AB|QC|NS|MB|SK|NB|NL|PE)\b", re.I)
 
 jobs, skipped = [], []
-HEAD = {"User-Agent": "campus-talent-jobs-bot (+https://www.joincampustalent.com)"}
+HEAD = {"User-Agent": "campus-talent-jobs-bot (+https://campustalent.ca)"}
 
 def get(url):
     try:
@@ -22,9 +22,22 @@ def get(url):
     except Exception:
         return None
 
+TERM = re.compile(r"\b(winter|spring|summer|fall|autumn)\b[^0-9]{0,12}(20\d\d)", re.I)
+TERM_END = {"winter": 4, "spring": 6, "summer": 8, "fall": 12, "autumn": 12}
+TODAY = datetime.date.today()
+
+def stale(title):
+    """True if the title names a term or year that has already finished (e.g. Summer 2026 in November 2026)."""
+    for season, year in TERM.findall(title):
+        y, m = int(year), TERM_END[season.lower()]
+        if (y, m) < (TODAY.year, TODAY.month):
+            return True
+    years = [int(y) for y in re.findall(r"\b(20\d\d)\b", title)]
+    return bool(years) and max(years) < TODAY.year
+
 def add(company, title, loc, url, source, posted=None):
     loc = loc or ""
-    if ROLE.search(title) and not SKIP.search(title) and CANADA.search(loc):
+    if ROLE.search(title) and not SKIP.search(title) and CANADA.search(loc) and not stale(title):
         jobs.append({"company": company, "title": title.strip(), "location": loc.strip(),
                      "url": url, "source": source, "posted": posted})
 
@@ -70,7 +83,15 @@ for w in C.get("workday", []):
             posts = d.get("jobPostings", [])
             for j in posts:
                 loc = j.get("locationsText", "")
-                if w.get("canadian") and MULTI.match(loc): loc = loc + " (Canada)"
+                if MULTI.match(loc):
+                    # "3 Locations" hides where the job is: read the posting and keep only its Canadian locations
+                    try:
+                        info = requests.get(f"https://{host}/wday/cxs/{tenant}/{site}{j.get('externalPath', '')}",
+                                            headers={**HEAD, "Accept": "application/json"}, timeout=25).json().get("jobPostingInfo", {})
+                        all_locs = [info.get("location", "")] + list(info.get("additionalLocations") or [])
+                        loc = ", ".join(x for x in all_locs if x and CANADA.search(x))
+                    except Exception:
+                        loc = ""
                 add(w["name"], j.get("title", ""), loc, f"https://{host}/{site}{j.get('externalPath', '')}", "workday", j.get("postedOn"))
             if len(posts) < 20: break
     if not ok: skipped.append(["workday", w["name"]])
@@ -87,7 +108,7 @@ json.dump(skipped, open("skipped.json", "w"), indent=2)
 rows = "\n".join(f"| {j['company']} | [{j['title']}]({j['url']}) | {j['location']} |" for j in unique)
 open("README.md", "w").write(f"""# Canadian internships, co-ops and new-grad roles
 
-Pulled automatically from public company job boards by [Campus Talent](https://www.joincampustalent.com). Updated daily.
+Pulled automatically from public company job boards by [Campus Talent](https://campustalent.ca). Updated daily.
 
 **{len(unique)} open roles** · last updated {now}
 
@@ -95,6 +116,6 @@ Pulled automatically from public company job boards by [Campus Talent](https://w
 |---|---|---|
 {rows}
 
-Want the best of these in your inbox every week? [Join the free weekly list](https://www.joincampustalent.com/roles.html).
+Want the best of these in your inbox every week? [Join the free weekly list](https://campustalent.ca/roles.html).
 """)
 print(f"{len(unique)} roles, {len(skipped)} boards skipped")
