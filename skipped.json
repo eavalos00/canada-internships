@@ -101,6 +101,10 @@
   ],
   [
     "workday",
+    "cibc"
+  ],
+  [
+    "workday",
     "manulife"
   ],
   [
@@ -110,14 +114,6 @@
   [
     "workday",
     "blackberry"
-  ],
-  [
-    "workday",
-    "nvidia"
-  ],
-  [
-    "workday",
-    "salesforce"
   ],
   [
     "workday",
