@@ -1,1 +1,22 @@
-{"updated": null, "count": 0, "jobs": []}
+{
+  "updated": "2026-11-16 03:55 UTC",
+  "count": 2,
+  "jobs": [
+    {
+      "company": "cohere",
+      "title": "Machine Learning Intern/Co-op  (Winter 2027)",
+      "location": "Canada, Europe, United States, United Kingdom",
+      "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+      "source": "ashby",
+      "posted": "2026-05-13T17:16:14.014+00:00"
+    },
+    {
+      "company": "cohere",
+      "title": "Research Internship (Winter 2027)",
+      "location": "Canada, San Francisco, Europe, London, United States, United Kingdom, Toronto, Montreal",
+      "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+      "source": "ashby",
+      "posted": "2026-05-01T20:26:46.572+00:00"
+    }
+  ]
+}
