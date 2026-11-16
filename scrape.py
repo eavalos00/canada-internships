@@ -100,6 +100,30 @@ for w in C.get("workday", []):
             if len(posts) < 20: break
     if not ok: skipped.append(["workday", w["name"]])
 
+# Community list: vanshb03/Summer2027-Internships (MIT licence, credited on the board).
+# Only Canadian, active roles; short links are followed so students land on the company's own posting.
+COMMUNITY = "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json"
+try:
+    from concurrent.futures import ThreadPoolExecutor
+    listings = requests.get(COMMUNITY, headers=HEAD, timeout=30).json()
+    picks = [x for x in listings if x.get("active") and x.get("is_visible", True)
+             and any(CANADA.search(l) for l in x.get("locations", []))
+             and not SKIP.search(x.get("title", "")) and not stale(x.get("title", "") + " " + x.get("season", ""))]
+    def final_url(u):
+        try:
+            return requests.head(u, headers=HEAD, allow_redirects=True, timeout=10).url
+        except Exception:
+            return u
+    with ThreadPoolExecutor(8) as pool:
+        urls = list(pool.map(final_url, [x["url"] for x in picks]))
+    for x, u in zip(picks, urls):
+        locs = ", ".join(l for l in x["locations"] if CANADA.search(l))
+        posted = datetime.datetime.utcfromtimestamp(x["date_posted"]).date().isoformat() if x.get("date_posted") else None
+        jobs.append({"company": x["company_name"].lower(), "title": x["title"], "location": locs,
+                     "url": u, "source": "community", "posted": posted})
+except Exception as e:
+    skipped.append(["community", "vanshb03/Summer2027-Internships"])
+
 # If a board failed this run, keep its roles from the last good run so the site never suddenly empties out
 try:
     prev = json.load(open("jobs.json")).get("jobs", [])
@@ -111,9 +135,11 @@ for p in prev:
         jobs.append(p)
 
 seen, unique = set(), []
-for j in sorted(jobs, key=lambda j: (j["company"].lower(), j["title"])):
-    if j["url"] not in seen:
-        seen.add(j["url"]); unique.append(j)
+for j in sorted(jobs, key=lambda j: (j.get("source") == "community", j["company"].lower(), j["title"])):
+    k = (j["company"].lower(), re.sub(r"\W+", " ", j["title"].lower()).strip())
+    if j["url"] not in seen and k not in seen:  # own scrape wins over the community list
+        seen.add(j["url"]); seen.add(k); unique.append(j)
+unique.sort(key=lambda j: (j["company"].lower(), j["title"]))
 
 now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 json.dump({"updated": now, "count": len(unique), "jobs": unique}, open("jobs.json", "w"), indent=2, ensure_ascii=False)
@@ -122,7 +148,7 @@ json.dump(skipped, open("skipped.json", "w"), indent=2)
 rows = "\n".join(f"| {j['company']} | [{j['title']}]({j['url']}) | {j['location']} |" for j in unique)
 open("README.md", "w").write(f"""# Canadian internships, co-ops and new-grad roles
 
-Pulled automatically from public company job boards by [Campus Talent](https://campustalent.ca). Updated daily.
+Pulled automatically from public company job boards by [Campus Talent](https://campustalent.ca), plus Canadian roles from the community list [vanshb03/Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) (MIT licence). Updated daily.
 
 **{len(unique)} open roles** · last updated {now}
 
