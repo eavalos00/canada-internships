@@ -3,7 +3,7 @@
 Sources: Greenhouse, Lever and Ashby public job-board feeds (no login needed).
 Edit companies.json to add companies (the board rebuilds on push and daily). Output: jobs.json, README.md, skipped.json.
 """
-import json, re, datetime, requests
+import json, re, time, datetime, requests
 
 C = json.load(open("companies.json"))
 ROLE = re.compile(r"\b(intern|internship|co-?op|new[ -]?grad|graduate program|student|summer analyst|early career)\b", re.I)
@@ -72,12 +72,16 @@ for w in C.get("workday", []):
     ok = False
     for q in ["intern", "co-op", "student", "new grad"]:
         for offset in range(0, 200, 20):
-            try:
-                r = requests.post(api, json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q},
-                                  headers={**HEAD, "Content-Type": "application/json", "Accept": "application/json"}, timeout=25)
-                d = r.json() if r.ok else None
-            except Exception:
-                d = None
+            d = None
+            for attempt in range(3):  # Workday sometimes refuses bursts: wait and retry
+                try:
+                    r = requests.post(api, json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q},
+                                      headers={**HEAD, "Content-Type": "application/json", "Accept": "application/json"}, timeout=25)
+                    d = r.json() if r.ok else None
+                except Exception:
+                    d = None
+                if d: break
+                time.sleep(3 * (attempt + 1))
             if not d: break
             ok = True
             posts = d.get("jobPostings", [])
@@ -95,6 +99,16 @@ for w in C.get("workday", []):
                 add(w["name"], j.get("title", ""), loc, f"https://{host}/{site}{j.get('externalPath', '')}", "workday", j.get("postedOn"))
             if len(posts) < 20: break
     if not ok: skipped.append(["workday", w["name"]])
+
+# If a board failed this run, keep its roles from the last good run so the site never suddenly empties out
+try:
+    prev = json.load(open("jobs.json")).get("jobs", [])
+except Exception:
+    prev = []
+failed = {name.lower() for _, name in skipped}
+for p in prev:
+    if p["company"].lower() in failed and not stale(p["title"]):
+        jobs.append(p)
 
 seen, unique = set(), []
 for j in sorted(jobs, key=lambda j: (j["company"].lower(), j["title"])):
