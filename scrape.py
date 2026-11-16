@@ -107,7 +107,7 @@ except Exception:
     prev = []
 failed = {name.lower() for _, name in skipped}
 for p in prev:
-    if p["company"].lower() in failed and not stale(p["title"]):
+    if p["company"].lower() in failed and not stale(p["title"]) and not re.search(r"\d+ Locations", p["location"]):
         jobs.append(p)
 
 seen, unique = set(), []
