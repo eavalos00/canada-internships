@@ -2,7 +2,7 @@
 
 Pulled automatically from public company job boards by [Campus Talent](https://campustalent.ca). Updated daily.
 
-**103 open roles** · last updated 2026-11-16 19:38 UTC
+**76 open roles** · last updated 2026-11-16 21:31 UTC
 
 | Company | Role | Location |
 |---|---|---|
@@ -14,33 +14,6 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | bmo | [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Toronto, ON, CAN |
 | bmo | [R260025949 Portfolio Assistant, Winter 2027 (Co-op/Internship), Brossard - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Brossard-QC-CAN/R260025949-Portfolio-Assistant--Winter-2027--Co-op-Internship---Brossard---4-months_R260026726) | Brossard, QC, CAN |
 | bmo | [Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) | Toronto, ON, CAN |
-| cibc | [AI Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | Toronto, ON |
-| cibc | [AI and Quantum Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) | Toronto, ON |
-| cibc | [Advanced Analytics and AI Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440-1) | Toronto, ON |
-| cibc | [Analyst - Funding & Liquidity Management co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst---Funding---Liquidity-Management-co-op_2621646-1) | Toronto, ON |
-| cibc | [Analyst, Enterprise Data and Records co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) | Toronto, ON |
-| cibc | [Analytics Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2) | Toronto, ON |
-| cibc | [Application/Software Developer Co-op (Winter 2027), Capital Markets Technology](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) | Toronto, ON |
-| cibc | [Application/Software Developer Co-op (Winter 2027), Enterprise Technology & Business Management](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524) | Toronto, ON |
-| cibc | [Business Analyst co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) | Toronto, ON |
-| cibc | [Business Enablement Analyst co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Enablement-Analyst-co-op_2621800-1) | Toronto, ON |
-| cibc | [Business Systems Analyst Co-op (Winter 2027), Enterprise Technology & Business Management](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Systems-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621526) | Toronto, ON |
-| cibc | [Change Enablement and Adoption Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Change-Enablement-and-Adoption-Co-op_2622680-1) | Toronto, ON |
-| cibc | [Content Strategy and Development Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Content-Strategy-and-Development-Co-op_2622509-2) | Toronto, ON |
-| cibc | [Corporate Security Coordinator Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1) | Toronto, ON |
-| cibc | [Data Analyst co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1) | Toronto, ON |
-| cibc | [First Nations, Inuit, or Métis Students - Winter 2027 Co-op and Internship Opportunities](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/First-Nations--Inuit--or-Mtis-Students---Winter-2027-Co-op-and-Internship-Opportunities_2616392-1) | Toronto, ON |
-| cibc | [Governance Solutions Analyst Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2) | Toronto, ON |
-| cibc | [Junior Insights & Analytics Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) | Toronto, ON |
-| cibc | [Junior Technical Writer co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Technical-Writer-co-op_2622456-1) | Toronto, ON |
-| cibc | [Machine Learning Engineer Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | Toronto, ON |
-| cibc | [People Change Management & Communications Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/People-Change-Management---Communications-Co-op_2622160) | Toronto, ON |
-| cibc | [Production Support Co-op (Winter 2027), Enterprise Technology & Business Management](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Production-Support-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2622138-1) | Toronto, ON |
-| cibc | [Project Coordinator Co-op (Winter 2027), Capital Markets Technology](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Project-Coordinator-Co-op--Winter-2027---Capital-Markets-Technology_2621521-1) | Toronto, ON |
-| cibc | [QA Analyst co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/QA-Analyst-co-op_2622340-1) | Toronto, ON |
-| cibc | [Research and Strategy Co-op (Winter 2027), Enterprise Technology & Business Management](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Research-and-Strategy-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621527-1) | Toronto, ON |
-| cibc | [Test/QA Analyst Co-op (Winter 2027), Enterprise Technology & Business Management](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Test-QA-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621525-1) | Toronto, ON |
-| cibc | [WFM Real Time Analyst co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/WFM-Real-Time-Analyst-co-op_2621769) | Toronto, ON |
 | ciena | [AI & Automation Intern - GCN Services Business Operations](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664) | Ottawa |
 | ciena | [AI/ML Layout Engineering Intern (Winter 2027)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Ottawa |
 | ciena | [ASIC Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750) | Ottawa |
