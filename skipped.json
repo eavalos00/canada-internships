@@ -93,7 +93,39 @@
   ],
   [
     "workday",
+    "td"
+  ],
+  [
+    "workday",
+    "bmo"
+  ],
+  [
+    "workday",
+    "cibc"
+  ],
+  [
+    "workday",
+    "manulife"
+  ],
+  [
+    "workday",
+    "sunlife"
+  ],
+  [
+    "workday",
+    "blackberry"
+  ],
+  [
+    "workday",
+    "nvidia"
+  ],
+  [
+    "workday",
     "salesforce"
+  ],
+  [
+    "workday",
+    "intel"
   ],
   [
     "workday",
@@ -101,6 +133,46 @@
   ],
   [
     "workday",
+    "adobe"
+  ],
+  [
+    "workday",
+    "autodesk"
+  ],
+  [
+    "workday",
+    "mastercard"
+  ],
+  [
+    "workday",
+    "thomsonreuters"
+  ],
+  [
+    "workday",
     "qualcomm"
+  ],
+  [
+    "workday",
+    "ciena"
+  ],
+  [
+    "workday",
+    "morganstanley"
+  ],
+  [
+    "workday",
+    "citi"
+  ],
+  [
+    "workday",
+    "statestreet"
+  ],
+  [
+    "workday",
+    "cadence"
+  ],
+  [
+    "workday",
+    "pwc"
   ]
 ]
