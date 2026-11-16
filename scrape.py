@@ -1,7 +1,7 @@
 """Pull Canadian internship, co-op and new-grad roles from public job boards.
 
 Sources: Greenhouse, Lever and Ashby public job-board feeds (no login needed).
-Edit companies.json to add companies. Output: jobs.json, README.md, skipped.json.
+Edit companies.json to add companies (the board rebuilds on push and daily). Output: jobs.json, README.md, skipped.json.
 """
 import json, re, datetime, requests
 
