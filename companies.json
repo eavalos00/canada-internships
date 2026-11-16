@@ -1,0 +1,6 @@
+{
+  "_note": "Board names are the part of the company's job-board URL after the domain, e.g. jobs.ashbyhq.com/wealthsimple -> wealthsimple. Unknown or wrong names are skipped and listed in skipped.json.",
+  "greenhouse": [],
+  "lever": ["achievers"],
+  "ashby": ["wealthsimple", "cohere", "harvey"]
+}
