@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 04:06 UTC",
-  "count": 109,
+  "updated": "2026-11-16 19:38 UTC",
+  "count": 103,
   "jobs": [
     {
       "company": "block",
@@ -65,14 +65,6 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382",
       "source": "workday",
       "posted": "Posted 5 Days Ago"
-    },
-    {
-      "company": "cadence",
-      "title": "Analog/Mixed-Signal IC Design Co-Op/Intern  (Summer 2026) / Stage/Co-Op en Conception de CI Analogiques/Signal Mixte (Été  2026)",
-      "location": "MOUNT-ROYAL (Montreal)",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2",
-      "source": "workday",
-      "posted": "Posted 30+ Days Ago"
     },
     {
       "company": "cibc",
@@ -304,7 +296,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102",
       "source": "workday",
-      "posted": "Posted 4 Days Ago"
+      "posted": "Posted 5 Days Ago"
     },
     {
       "company": "ciena",
@@ -312,7 +304,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
       "source": "workday",
-      "posted": "Posted 16 Days Ago"
+      "posted": "Posted 17 Days Ago"
     },
     {
       "company": "ciena",
@@ -320,7 +312,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915",
       "source": "workday",
-      "posted": "Posted 13 Days Ago"
+      "posted": "Posted 14 Days Ago"
     },
     {
       "company": "ciena",
@@ -328,7 +320,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
       "source": "workday",
-      "posted": "Posted 19 Days Ago"
+      "posted": "Posted 20 Days Ago"
     },
     {
       "company": "ciena",
@@ -344,7 +336,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1",
       "source": "workday",
-      "posted": "Posted 4 Days Ago"
+      "posted": "Posted Today"
     },
     {
       "company": "ciena",
@@ -352,7 +344,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005",
       "source": "workday",
-      "posted": "Posted 17 Days Ago"
+      "posted": "Posted 18 Days Ago"
     },
     {
       "company": "ciena",
@@ -360,7 +352,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
       "source": "workday",
-      "posted": "Posted 2 Days Ago"
+      "posted": "Posted 3 Days Ago"
     },
     {
       "company": "ciena",
@@ -368,7 +360,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
       "source": "workday",
-      "posted": "Posted 17 Days Ago"
+      "posted": "Posted 18 Days Ago"
     },
     {
       "company": "ciena",
@@ -376,7 +368,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914",
       "source": "workday",
-      "posted": "Posted 13 Days Ago"
+      "posted": "Posted 14 Days Ago"
     },
     {
       "company": "ciena",
@@ -384,7 +376,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054",
       "source": "workday",
-      "posted": "Posted 12 Days Ago"
+      "posted": "Posted 13 Days Ago"
     },
     {
       "company": "ciena",
@@ -392,7 +384,7 @@
       "location": "Quebec",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Ingnieur-de-Validation-de-Composant--Product-Validation-Engineer---New-Grad_R031778",
       "source": "workday",
-      "posted": "Posted 13 Days Ago"
+      "posted": "Posted 14 Days Ago"
     },
     {
       "company": "ciena",
@@ -400,7 +392,7 @@
       "location": "Quebec",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
       "source": "workday",
-      "posted": "Posted 19 Days Ago"
+      "posted": "Posted 20 Days Ago"
     },
     {
       "company": "ciena",
@@ -408,15 +400,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103",
       "source": "workday",
-      "posted": "Posted 4 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Optical New Product Engineering Intern",
-      "location": "Montreal",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040",
-      "source": "workday",
-      "posted": "Posted 13 Days Ago"
+      "posted": "Posted 5 Days Ago"
     },
     {
       "company": "ciena",
@@ -424,7 +408,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991",
       "source": "workday",
-      "posted": "Posted 19 Days Ago"
+      "posted": "Posted 20 Days Ago"
     },
     {
       "company": "ciena",
@@ -432,7 +416,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
       "source": "workday",
-      "posted": "Posted 16 Days Ago"
+      "posted": "Posted 17 Days Ago"
     },
     {
       "company": "ciena",
@@ -440,7 +424,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
       "source": "workday",
-      "posted": "Posted 18 Days Ago"
+      "posted": "Posted 19 Days Ago"
     },
     {
       "company": "ciena",
@@ -452,35 +436,35 @@
     },
     {
       "company": "ciena",
+      "title": "Services Business Intelligence & Analytics Intern",
+      "location": "Montreal, Ottawa",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
+      "source": "workday",
+      "posted": "Posted 28 Days Ago"
+    },
+    {
+      "company": "ciena",
       "title": "Software Developer Intern - Winter 2027",
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
       "source": "workday",
-      "posted": "Posted 24 Days Ago"
+      "posted": "Posted 25 Days Ago"
     },
     {
-      "company": "citi",
-      "title": "Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027",
-      "location": "Mississauga Ontario Canada",
-      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Functions---Internal-Audit--Summer-Analyst---Mississauga--ON-2027_26951380",
+      "company": "ciena",
+      "title": "Stagiaire en développement logiciel - Software developer Intern/Co-op",
+      "location": "Quebec, Remote-Canada",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted 13 Days Ago"
     },
     {
-      "company": "citi",
-      "title": "Technology,  Production Support, Summer Analyst, Mississauga, Canada, 2027",
-      "location": "Mississauga Ontario Canada",
-      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology---Production-Support--Summer-Analyst--Mississauga--Canada--2027_261003289",
+      "company": "ciena",
+      "title": "Technical Solution Engineer (Intern), SE&I",
+      "location": "Ottawa, Montreal",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
       "source": "workday",
-      "posted": "Posted 23 Days Ago"
-    },
-    {
-      "company": "citi",
-      "title": "Technology, Application Development, Summer Analyst, Mississauga, Canada, 2027",
-      "location": "Mississauga Ontario Canada",
-      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
-      "source": "workday",
-      "posted": "Posted 9 Days Ago"
+      "posted": "Posted 3 Days Ago"
     },
     {
       "company": "cohere",
@@ -504,7 +488,7 @@
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
       "source": "greenhouse",
-      "posted": "2026-11-13T15:13:15-05:00"
+      "posted": "2026-11-16T09:15:59-05:00"
     },
     {
       "company": "databricks",
@@ -512,7 +496,15 @@
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
       "source": "greenhouse",
-      "posted": "2026-11-13T15:13:15-05:00"
+      "posted": "2026-11-16T09:15:59-05:00"
+    },
+    {
+      "company": "hootsuite",
+      "title": "Co-op/Intern, People Team & Operations - Winter 2027",
+      "location": "Vancouver, British Columbia; Toronto, Ontario; Calgary, Alberta; Ottawa, Ontario; Edmonton, Alberta",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8392381",
+      "source": "greenhouse",
+      "posted": "2026-11-16T11:29:43-05:00"
     },
     {
       "company": "intel",
@@ -520,7 +512,7 @@
       "location": "Canada, Toronto",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
       "source": "workday",
-      "posted": "Posted 24 Days Ago"
+      "posted": "Posted 25 Days Ago"
     },
     {
       "company": "intel",
@@ -625,14 +617,6 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
       "source": "greenhouse",
       "posted": "2026-11-10T10:52:40-05:00"
-    },
-    {
-      "company": "manulife",
-      "title": "Co-op Internship 2027 - Regional Marketing Strategy, UX/UI",
-      "location": "2 Locations (Canada)",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Co-op-Internship-2027---Regional-Marketing-Strategy--UX-UI_JR26110506",
-      "source": "workday",
-      "posted": "Posted 5 Days Ago"
     },
     {
       "company": "manulife",
@@ -755,22 +739,6 @@
       "posted": "Posted 5 Days Ago"
     },
     {
-      "company": "nvidia",
-      "title": "ASIC Verification Intern - Summer 2027",
-      "location": "Canada, Toronto",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
-      "source": "workday",
-      "posted": "Posted 16 Days Ago"
-    },
-    {
-      "company": "nvidia",
-      "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
-      "location": "Canada, Toronto",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
-      "source": "workday",
-      "posted": "Posted 16 Days Ago"
-    },
-    {
       "company": "pinterest",
       "title": "Machine Learning Intern 2027 (Toronto)",
       "location": "Toronto, ON, CA",
@@ -849,22 +817,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8157838",
       "source": "greenhouse",
       "posted": "2026-10-29T10:42:09-04:00"
-    },
-    {
-      "company": "sunlife",
-      "title": "Business Operations Software Engineer - 2027 Co-op",
-      "location": "5 Locations (Canada)",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846",
-      "source": "workday",
-      "posted": "Posted 12 Days Ago"
-    },
-    {
-      "company": "sunlife",
-      "title": "Business Operations Software Engineer 2027 Co-op",
-      "location": "5 Locations (Canada)",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Wellesley/Business-Operations-Software-Engineer-2027-Co-op_JR00128863-3",
-      "source": "workday",
-      "posted": "Posted 12 Days Ago"
     },
     {
       "company": "td",
