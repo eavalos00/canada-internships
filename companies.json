@@ -1,6 +1,194 @@
 {
-  "_note": "Board names are the part of the company's job-board URL after the domain, e.g. jobs.ashbyhq.com/wealthsimple -> wealthsimple. Unknown or wrong names are skipped and listed in skipped.json.",
-  "greenhouse": [],
-  "lever": ["achievers"],
-  "ashby": ["wealthsimple", "cohere", "harvey"]
+  "_note": "Board names come from each company's job-board URL. Wrong names are skipped and listed in skipped.json. Workday: paste the careers URL; set canadian=true for Canadian-HQ employers so multi-location postings are kept.",
+  "greenhouse": [
+    "stripe",
+    "coinbase",
+    "databricks",
+    "pinterest",
+    "lyft",
+    "instacart",
+    "affirm",
+    "figma",
+    "dropbox",
+    "okta",
+    "twilio",
+    "samsara",
+    "robinhood",
+    "faire",
+    "point72",
+    "wehrtyou",
+    "imc",
+    "block",
+    "doordashusa",
+    "reddit",
+    "airbnb",
+    "roblox",
+    "scaleai",
+    "anthropic",
+    "thinkific",
+    "jobber",
+    "clio",
+    "benevity",
+    "hootsuite",
+    "dapperlabs",
+    "league",
+    "sofi",
+    "chime",
+    "plaid",
+    "brex",
+    "gusto",
+    "asana",
+    "cloudflare",
+    "datadog",
+    "mongodb",
+    "elastic",
+    "gitlab",
+    "hashicorp",
+    "squarespace",
+    "yelp",
+    "etsy",
+    "duolingo",
+    "nuro",
+    "waabi",
+    "sanctuaryai"
+  ],
+  "lever": [
+    "achievers",
+    "kinaxis",
+    "koho",
+    "neofinancial",
+    "applyboard",
+    "ritual",
+    "wave",
+    "d2l",
+    "borrowell",
+    "nesto",
+    "vidyard",
+    "carta"
+  ],
+  "ashby": [
+    "wealthsimple",
+    "cohere",
+    "harvey",
+    "1password",
+    "ada",
+    "notion",
+    "ramp",
+    "openai",
+    "replit",
+    "linear",
+    "cursor",
+    "perplexity",
+    "mercury",
+    "vanta",
+    "deel",
+    "shopify"
+  ],
+  "workday": [
+    {
+      "name": "td",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+      "canadian": true
+    },
+    {
+      "name": "bmo",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External",
+      "canadian": true
+    },
+    {
+      "name": "cibc",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search",
+      "canadian": true
+    },
+    {
+      "name": "manulife",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
+      "canadian": true
+    },
+    {
+      "name": "sunlife",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs",
+      "canadian": true
+    },
+    {
+      "name": "blackberry",
+      "url": "https://bb.wd3.myworkdayjobs.com/BlackBerry",
+      "canadian": true
+    },
+    {
+      "name": "nvidia",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+      "canadian": false
+    },
+    {
+      "name": "salesforce",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+      "canadian": false
+    },
+    {
+      "name": "intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/External",
+      "canadian": false
+    },
+    {
+      "name": "amd",
+      "url": "https://amd.wd1.myworkdayjobs.com/External",
+      "canadian": false
+    },
+    {
+      "name": "adobe",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+      "canadian": false
+    },
+    {
+      "name": "autodesk",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "canadian": false
+    },
+    {
+      "name": "mastercard",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+      "canadian": false
+    },
+    {
+      "name": "thomsonreuters",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
+      "canadian": false
+    },
+    {
+      "name": "qualcomm",
+      "url": "https://qualcomm.wd5.myworkdayjobs.com/External",
+      "canadian": false
+    },
+    {
+      "name": "ciena",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers",
+      "canadian": false
+    },
+    {
+      "name": "morganstanley",
+      "url": "https://ms.wd5.myworkdayjobs.com/External",
+      "canadian": false
+    },
+    {
+      "name": "citi",
+      "url": "https://citi.wd5.myworkdayjobs.com/2",
+      "canadian": false
+    },
+    {
+      "name": "statestreet",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+      "canadian": false
+    },
+    {
+      "name": "cadence",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "canadian": false
+    },
+    {
+      "name": "pwc",
+      "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers",
+      "canadian": false
+    }
+  ]
 }

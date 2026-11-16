@@ -50,6 +50,31 @@ for c in C.get("ashby", []):
         locs = [j.get("location") or ""] + [s.get("location", "") for s in j.get("secondaryLocations") or []]
         add(c, j["title"], ", ".join(x for x in locs if x), j["jobUrl"], "ashby", j.get("publishedAt"))
 
+MULTI = re.compile(r"^\d+ Locations?$", re.I)
+for w in C.get("workday", []):
+    m = re.match(r"https://([^/]+)/(?:[a-z]{2}-[A-Z]{2}/)?([^/?#]+)", w["url"])
+    if not m: skipped.append(["workday", w["name"]]); continue
+    host, site = m.groups(); tenant = host.split(".")[0]
+    api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
+    ok = False
+    for q in ["intern", "co-op", "student", "new grad"]:
+        for offset in range(0, 200, 20):
+            try:
+                r = requests.post(api, json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q},
+                                  headers={**HEAD, "Content-Type": "application/json", "Accept": "application/json"}, timeout=25)
+                d = r.json() if r.ok else None
+            except Exception:
+                d = None
+            if not d: break
+            ok = True
+            posts = d.get("jobPostings", [])
+            for j in posts:
+                loc = j.get("locationsText", "")
+                if w.get("canadian") and MULTI.match(loc): loc = loc + " (Canada)"
+                add(w["name"], j.get("title", ""), loc, f"https://{host}/{site}{j.get('externalPath', '')}", "workday", j.get("postedOn"))
+            if len(posts) < 20: break
+    if not ok: skipped.append(["workday", w["name"]])
+
 seen, unique = set(), []
 for j in sorted(jobs, key=lambda j: (j["company"].lower(), j["title"])):
     if j["url"] not in seen:
