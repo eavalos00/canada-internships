@@ -105,10 +105,6 @@
   ],
   [
     "workday",
-    "manulife"
-  ],
-  [
-    "workday",
     "sunlife"
   ],
   [
@@ -117,35 +113,11 @@
   ],
   [
     "workday",
-    "intel"
-  ],
-  [
-    "workday",
     "amd"
   ],
   [
     "workday",
-    "adobe"
-  ],
-  [
-    "workday",
-    "autodesk"
-  ],
-  [
-    "workday",
-    "mastercard"
-  ],
-  [
-    "workday",
-    "thomsonreuters"
-  ],
-  [
-    "workday",
     "qualcomm"
-  ],
-  [
-    "workday",
-    "ciena"
   ],
   [
     "workday",
@@ -157,14 +129,6 @@
   ],
   [
     "workday",
-    "statestreet"
-  ],
-  [
-    "workday",
     "cadence"
-  ],
-  [
-    "workday",
-    "pwc"
   ]
 ]

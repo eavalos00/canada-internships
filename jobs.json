@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 22:26 UTC",
-  "count": 311,
+  "updated": "2026-11-17 20:21 UTC",
+  "count": 305,
   "jobs": [
     {
       "company": "acumatica",
@@ -99,14 +99,6 @@
       "posted": "2025-12-03"
     },
     {
-      "company": "american express",
-      "title": "Undergraduate Program AI Engineer Intern, Enterprise Technology Services",
-      "location": "Toronto, Canada",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035",
-      "source": "community",
-      "posted": "2026-11-02"
-    },
-    {
       "company": "amgen",
       "title": "Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology",
       "location": "Burnaby, Canada",
@@ -121,6 +113,14 @@
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615",
       "source": "community",
       "posted": "2026-09-23"
+    },
+    {
+      "company": "angel host",
+      "title": "AI Product Engineer Co-op",
+      "location": "Montreal, Canada",
+      "url": "https://angelhost.bamboohr.com/careers/123",
+      "source": "community",
+      "posted": "2026-11-17"
     },
     {
       "company": "apera ai",
@@ -265,6 +265,30 @@
       "url": "https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454",
       "source": "community",
       "posted": "2026-11-05"
+    },
+    {
+      "company": "birdseye security solutions",
+      "title": "AI Systems Intern",
+      "location": "Mississauga, Canada",
+      "url": "https://birdseyeaccount.bamboohr.com/careers/287",
+      "source": "community",
+      "posted": "2026-11-17"
+    },
+    {
+      "company": "birdseye security solutions",
+      "title": "Computer Vision Intern",
+      "location": "Mississauga, Canada",
+      "url": "https://birdseyeaccount.bamboohr.com/careers/289",
+      "source": "community",
+      "posted": "2026-11-17"
+    },
+    {
+      "company": "birdseye security solutions",
+      "title": "Software Developer Intern",
+      "location": "Mississauga, Canada",
+      "url": "https://birdseyeaccount.bamboohr.com/careers/286",
+      "source": "community",
+      "posted": "2026-11-17"
     },
     {
       "company": "block",
@@ -432,7 +456,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted 6 Days Ago"
     },
     {
       "company": "ciena",
@@ -440,15 +464,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
       "source": "workday",
-      "posted": "Posted 17 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Analog and Mixed-Signal Modelling Architect (Masters or PhD New Grad)",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915",
-      "source": "workday",
-      "posted": "Posted 14 Days Ago"
+      "posted": "Posted 18 Days Ago"
     },
     {
       "company": "ciena",
@@ -456,15 +472,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
       "source": "workday",
-      "posted": "Posted 20 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Embedded Software Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-      "source": "workday",
-      "posted": "Posted 30+ Days Ago"
+      "posted": "Posted 21 Days Ago"
     },
     {
       "company": "ciena",
@@ -472,7 +480,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005",
       "source": "workday",
-      "posted": "Posted 18 Days Ago"
+      "posted": "Posted 19 Days Ago"
     },
     {
       "company": "ciena",
@@ -480,7 +488,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
       "source": "workday",
-      "posted": "Posted 3 Days Ago"
+      "posted": "Posted 4 Days Ago"
     },
     {
       "company": "ciena",
@@ -488,29 +496,13 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
       "source": "workday",
-      "posted": "Posted 18 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Hardware Engineer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914",
-      "source": "workday",
-      "posted": "Posted 14 Days Ago"
+      "posted": "Posted 19 Days Ago"
     },
     {
       "company": "ciena",
       "title": "Hardware Engineering Co-op (Winter 2027)",
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054",
-      "source": "workday",
-      "posted": "Posted 13 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Ingénieur de Validation de Composant/ Product Validation Engineer - New Grad",
-      "location": "Quebec",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Ingnieur-de-Validation-de-Composant--Product-Validation-Engineer---New-Grad_R031778",
       "source": "workday",
       "posted": "Posted 14 Days Ago"
     },
@@ -520,7 +512,7 @@
       "location": "Quebec",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
       "source": "workday",
-      "posted": "Posted 20 Days Ago"
+      "posted": "Posted 21 Days Ago"
     },
     {
       "company": "ciena",
@@ -528,39 +520,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Optical Performance Lab Verification and Testing Co-op",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991",
-      "source": "workday",
-      "posted": "Posted 20 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Photonic Card Software Developer - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
-      "source": "workday",
-      "posted": "Posted 17 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Routing/IP Software Engineer  - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
-      "source": "workday",
-      "posted": "Posted 19 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "SVT/PV Engineer 1 - New Grad",
-      "location": "Ottawa",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
-      "source": "workday",
-      "posted": "Posted 30+ Days Ago"
+      "posted": "Posted 6 Days Ago"
     },
     {
       "company": "ciena",
@@ -568,7 +528,15 @@
       "location": "Montreal, Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
       "source": "workday",
-      "posted": "Posted 28 Days Ago"
+      "posted": "Posted 29 Days Ago"
+    },
+    {
+      "company": "ciena",
+      "title": "Software Developer Co-op",
+      "location": "Quebec, Canada, Canada",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
+      "source": "community",
+      "posted": "2026-11-03"
     },
     {
       "company": "ciena",
@@ -584,23 +552,7 @@
       "location": "Ottawa",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
       "source": "workday",
-      "posted": "Posted 25 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Stagiaire en développement logiciel - Software developer Intern/Co-op",
-      "location": "Quebec, Remote-Canada",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
-      "source": "workday",
-      "posted": "Posted 13 Days Ago"
-    },
-    {
-      "company": "ciena",
-      "title": "Technical Solution Engineer (Intern), SE&I",
-      "location": "Ottawa, Montreal",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
-      "source": "workday",
-      "posted": "Posted 3 Days Ago"
+      "posted": "Posted 26 Days Ago"
     },
     {
       "company": "cisco",
@@ -675,12 +627,20 @@
       "posted": "2026-10-06"
     },
     {
+      "company": "critical environment technologies",
+      "title": "Computer Science Co-op",
+      "location": "Delta, Canada",
+      "url": "https://cetci.bamboohr.com/careers/92",
+      "source": "community",
+      "posted": "2026-11-17"
+    },
+    {
       "company": "databricks",
       "title": "Software Engineer - New Grad (2027 Start)",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
       "source": "greenhouse",
-      "posted": "2026-11-16T16:17:31-05:00"
+      "posted": "2026-11-16T17:44:11-05:00"
     },
     {
       "company": "databricks",
@@ -696,7 +656,7 @@
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
       "source": "greenhouse",
-      "posted": "2026-11-16T16:17:31-05:00"
+      "posted": "2026-11-16T17:44:11-05:00"
     },
     {
       "company": "datavisor",
@@ -1016,7 +976,7 @@
       "location": "Canada, Toronto",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
       "source": "workday",
-      "posted": "Posted 25 Days Ago"
+      "posted": "Posted 26 Days Ago"
     },
     {
       "company": "intel",
@@ -1089,14 +1049,6 @@
       "url": "https://careers.l3harris.com/en/job/waterdown/software-engineering-co-op-waterdown-can/4832/100667892672",
       "source": "community",
       "posted": "2026-10-29"
-    },
-    {
-      "company": "later",
-      "title": "Data Science Co-op",
-      "location": "Vancouver, BC",
-      "url": "https://job-boards.greenhouse.io/later?error=true",
-      "source": "community",
-      "posted": "2026-10-14"
     },
     {
       "company": "lockheed martin",
@@ -1248,15 +1200,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-2027-Intern---Mortgage-Operations-Analyst_JR26091425",
       "source": "workday",
-      "posted": "Posted 13 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Brand Coordinator",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Brand-Coordinator_JR26081244",
-      "source": "workday",
-      "posted": "Posted 13 Days Ago"
+      "posted": "Posted 15 Days Ago"
     },
     {
       "company": "manulife",
@@ -1264,7 +1208,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Canada-Retail-Marketing_JR26091051",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted 7 Days Ago"
     },
     {
       "company": "manulife",
@@ -1272,7 +1216,7 @@
       "location": "Montreal, Quebec",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Summer-Intern-2027---Commercial-Mortgage_JR26091962",
       "source": "workday",
-      "posted": "Posted 12 Days Ago"
+      "posted": "Posted 14 Days Ago"
     },
     {
       "company": "manulife",
@@ -1280,7 +1224,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Wealth-Marketing--8-months-_JR26080978",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted 7 Days Ago"
     },
     {
       "company": "manulife",
@@ -1288,15 +1232,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Enterprise-Strategy_JR26091796",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Global Retirement Marketing",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Global-Retirement-Marketing_JR26080059",
-      "source": "workday",
-      "posted": "Posted 13 Days Ago"
+      "posted": "Posted 7 Days Ago"
     },
     {
       "company": "manulife",
@@ -1304,7 +1240,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Global-WAM-Marketing-Strategy-Operations_JR26080927",
       "source": "workday",
-      "posted": "Posted 2 Days Ago"
+      "posted": "Posted 4 Days Ago"
     },
     {
       "company": "manulife",
@@ -1312,7 +1248,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Strategy-Analyst_JR26100105",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted 7 Days Ago"
     },
     {
       "company": "manulife",
@@ -1320,7 +1256,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Transformation-Delivery_JR26091895",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted 7 Days Ago"
     },
     {
       "company": "manulife",
@@ -1328,7 +1264,15 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
       "source": "workday",
-      "posted": "Posted 9 Days Ago"
+      "posted": "Posted 11 Days Ago"
+    },
+    {
+      "company": "manulife",
+      "title": "Summer Intern 2027 - Wealth Investment Office Intern",
+      "location": "Toronto, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Wealth-Investment-Office-Intern_JR26110685",
+      "source": "workday",
+      "posted": "Posted Today"
     },
     {
       "company": "manulife",
@@ -1336,23 +1280,15 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---General-Account-Investments-Business-Architecture_JR26110296",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted 7 Days Ago"
     },
     {
       "company": "manulife",
-      "title": "Winter Co-op 2027 – Accounting Analyst",
+      "title": "Summer Intern/Co-op 2027 – Canadian Operations Management (8 Months)",
       "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Accounting-Analyst_JR26090172",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2027---Canadian-Operations-Management--8-Months-_JR26100178",
       "source": "workday",
-      "posted": "Posted 5 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Winter Co-op 2027 – General Account Investments Business Architecture",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---General-Account-Investments-Business-Architecture_JR26110293",
-      "source": "workday",
-      "posted": "Posted 5 Days Ago"
+      "posted": "Posted Yesterday"
     },
     {
       "company": "manulife financial",
@@ -1619,14 +1555,6 @@
       "posted": "2026-11-04"
     },
     {
-      "company": "plusgrade",
-      "title": "Data Science Intern",
-      "location": "Toronto, Canada",
-      "url": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230",
-      "source": "community",
-      "posted": "2026-11-04"
-    },
-    {
       "company": "procogia",
       "title": "LLM Research Intern",
       "location": "Vancouver, Canada",
@@ -1641,6 +1569,14 @@
       "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
       "source": "community",
       "posted": "2026-10-08"
+    },
+    {
+      "company": "q-block computing",
+      "title": "Embedded Systems Developer Intern",
+      "location": "Ottawa, Canada",
+      "url": "https://q-block-computing.breezy.hr/p/6d13d3d6cc7e-embedded-systems-developer-intern",
+      "source": "community",
+      "posted": "2026-11-04"
     },
     {
       "company": "qualcomm",
@@ -2083,14 +2019,6 @@
       "posted": "2026-10-16"
     },
     {
-      "company": "solink",
-      "title": "Software Engineer Co-op, Apps",
-      "location": "Ottawa, Canada",
-      "url": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430",
-      "source": "community",
-      "posted": "2026-10-05"
-    },
-    {
       "company": "soti",
       "title": "Cloud Administrator Intern",
       "location": "Mississauga, ON",
@@ -2411,6 +2339,14 @@
       "posted": "2026-10-15"
     },
     {
+      "company": "tower research capital",
+      "title": "Software Developer Intern",
+      "location": "Montreal, Canada",
+      "url": "https://tower-research.com/open-positions/?gh_jid=8212179",
+      "source": "community",
+      "posted": "2026-09-17"
+    },
+    {
       "company": "trc companies",
       "title": "Software Engineer Intern",
       "location": "Calgary, Canada",
@@ -2470,7 +2406,7 @@
       "company": "waabi",
       "title": "Safety Methodologies Co-op",
       "location": "Toronto, ON, Canada",
-      "url": "https://go.vansh.nyc/b5",
+      "url": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply",
       "source": "community",
       "posted": "2026-10-16"
     },
@@ -2483,12 +2419,28 @@
       "posted": "2026-10-29"
     },
     {
+      "company": "xradar",
+      "title": "Software Engineer Co-op",
+      "location": "Burnaby, Canada",
+      "url": "https://xradar.bamboohr.com/careers/203",
+      "source": "community",
+      "posted": "2026-11-17"
+    },
+    {
       "company": "zimmer biomet holdings",
       "title": "Software Developer Co-op",
       "location": "Montreal, Canada",
       "url": "https://careers.zimmerbiomet.com/us/en/job/13309",
       "source": "community",
       "posted": "2026-11-02"
+    },
+    {
+      "company": "zurich insurance",
+      "title": "Data Analytics & AI Intern",
+      "location": "Toronto, Canada",
+      "url": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
+      "source": "community",
+      "posted": "2026-11-16"
     }
   ]
 }
