@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17 20:21 UTC",
-  "count": 305,
+  "updated": "2026-11-18 19:52 UTC",
+  "count": 301,
   "jobs": [
     {
       "company": "acumatica",
@@ -121,14 +121,6 @@
       "url": "https://angelhost.bamboohr.com/careers/123",
       "source": "community",
       "posted": "2026-11-17"
-    },
-    {
-      "company": "apera ai",
-      "title": "Machine Learning Applied Scientist Co-op",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
-      "source": "community",
-      "posted": "2026-09-15"
     },
     {
       "company": "aptiv",
@@ -296,7 +288,7 @@
       "location": "Toronto, Ontario , Canada",
       "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
       "source": "greenhouse",
-      "posted": "2026-10-30T09:28:51-04:00"
+      "posted": "2026-11-17T15:40:23-05:00"
     },
     {
       "company": "bmo",
@@ -636,14 +628,6 @@
     },
     {
       "company": "databricks",
-      "title": "Software Engineer - New Grad (2027 Start)",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
-      "source": "greenhouse",
-      "posted": "2026-11-16T17:44:11-05:00"
-    },
-    {
-      "company": "databricks",
       "title": "Software Engineering Intern",
       "location": "Vancouver, BC",
       "url": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineering-intern-2027-6865687002?gh_jid=6865687002",
@@ -656,7 +640,7 @@
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
       "source": "greenhouse",
-      "posted": "2026-11-16T17:44:11-05:00"
+      "posted": "2026-11-18T10:44:34-05:00"
     },
     {
       "company": "datavisor",
@@ -721,14 +705,6 @@
       "url": "https://eaton.eightfold.ai/careers/job/687239542740",
       "source": "community",
       "posted": "2026-10-16"
-    },
-    {
-      "company": "electronic arts",
-      "title": "AI Engineer Intern, Creative Innovations, Character Pipelines",
-      "location": "Vancouver, Canada",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236",
-      "source": "community",
-      "posted": "2026-09-22"
     },
     {
       "company": "electronic arts",
@@ -901,8 +877,8 @@
     {
       "company": "global relay",
       "title": "Java Developer Co-op",
-      "location": "Vancouver, Canada",
-      "url": "https://www.globalrelay.com/company/careers/jobs/?gh_jid=6241593004",
+      "location": "Halifax, Canada",
+      "url": "https://www.globalrelay.com/company/careers/jobs/?gh_jid=6241594004",
       "source": "community",
       "posted": "2026-11-03"
     },
@@ -921,14 +897,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094",
       "source": "community",
       "posted": "2026-09-14"
-    },
-    {
-      "company": "heygen",
-      "title": "Software Engineer Intern",
-      "location": "Toronto, ON, Canada",
-      "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
-      "source": "community",
-      "posted": "2026-10-19"
     },
     {
       "company": "hitachi",
@@ -993,22 +961,6 @@
       "url": "https://johndeere.eightfold.ai/careers/job/137483990265",
       "source": "community",
       "posted": "2026-10-23"
-    },
-    {
-      "company": "kensington",
-      "title": "Analytics Intern",
-      "location": "Toronto, ON",
-      "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
-      "source": "community",
-      "posted": "2026-10-14"
-    },
-    {
-      "company": "kensington",
-      "title": "BI/Data Analyst Intern",
-      "location": "Toronto, Canada",
-      "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
-      "source": "community",
-      "posted": "2026-11-09"
     },
     {
       "company": "kensington",
@@ -1200,7 +1152,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-2027-Intern---Mortgage-Operations-Analyst_JR26091425",
       "source": "workday",
-      "posted": "Posted 15 Days Ago"
+      "posted": "Posted 16 Days Ago"
     },
     {
       "company": "manulife",
@@ -1208,7 +1160,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Canada-Retail-Marketing_JR26091051",
       "source": "workday",
-      "posted": "Posted 7 Days Ago"
+      "posted": "Posted 8 Days Ago"
     },
     {
       "company": "manulife",
@@ -1216,7 +1168,7 @@
       "location": "Montreal, Quebec",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Summer-Intern-2027---Commercial-Mortgage_JR26091962",
       "source": "workday",
-      "posted": "Posted 14 Days Ago"
+      "posted": "Posted 15 Days Ago"
     },
     {
       "company": "manulife",
@@ -1224,7 +1176,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Wealth-Marketing--8-months-_JR26080978",
       "source": "workday",
-      "posted": "Posted 7 Days Ago"
+      "posted": "Posted 8 Days Ago"
     },
     {
       "company": "manulife",
@@ -1232,7 +1184,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Enterprise-Strategy_JR26091796",
       "source": "workday",
-      "posted": "Posted 7 Days Ago"
+      "posted": "Posted 8 Days Ago"
     },
     {
       "company": "manulife",
@@ -1240,7 +1192,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Global-WAM-Marketing-Strategy-Operations_JR26080927",
       "source": "workday",
-      "posted": "Posted 4 Days Ago"
+      "posted": "Posted 5 Days Ago"
     },
     {
       "company": "manulife",
@@ -1248,7 +1200,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Strategy-Analyst_JR26100105",
       "source": "workday",
-      "posted": "Posted 7 Days Ago"
+      "posted": "Posted 8 Days Ago"
     },
     {
       "company": "manulife",
@@ -1256,31 +1208,7 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Transformation-Delivery_JR26091895",
       "source": "workday",
-      "posted": "Posted 7 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Venture Capital",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
-      "source": "workday",
-      "posted": "Posted 11 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Wealth Investment Office Intern",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Wealth-Investment-Office-Intern_JR26110685",
-      "source": "workday",
-      "posted": "Posted Today"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 – General Account Investments Business Architecture",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---General-Account-Investments-Business-Architecture_JR26110296",
-      "source": "workday",
-      "posted": "Posted 7 Days Ago"
+      "posted": "Posted 8 Days Ago"
     },
     {
       "company": "manulife",
@@ -1288,7 +1216,23 @@
       "location": "Toronto, Ontario",
       "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2027---Canadian-Operations-Management--8-Months-_JR26100178",
       "source": "workday",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "company": "manulife",
+      "title": "Winter Co-op 2027 - Standards Assurance and Risk Monitoring",
+      "location": "Toronto, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Standards-Assurance-and-Risk-Monitoring_JR26071466",
+      "source": "workday",
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "company": "manulife",
+      "title": "Winter Co-op 2027 – Accounting Analyst",
+      "location": "Toronto, Ontario",
+      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Accounting-Analyst_JR26090172",
+      "source": "workday",
+      "posted": "Posted 8 Days Ago"
     },
     {
       "company": "manulife financial",
@@ -1604,6 +1548,14 @@
     },
     {
       "company": "qualcomm",
+      "title": "AI/Machine Learning Intern",
+      "location": "Markham, Canada",
+      "url": "https://careers.qualcomm.com/careers/job/446722176432",
+      "source": "community",
+      "posted": "2026-11-17"
+    },
+    {
+      "company": "qualcomm",
       "title": "Applied AI Engineer Intern",
       "location": "Markham, ON, Canada",
       "url": "https://careers.qualcomm.com/careers/job/446721664194",
@@ -1907,6 +1859,14 @@
       "posted": "2026-11-05"
     },
     {
+      "company": "ross video",
+      "title": "Research Assistant Co-op, AI Focus",
+      "location": "Ottawa, Canada",
+      "url": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
+      "source": "community",
+      "posted": "2026-11-17"
+    },
+    {
       "company": "royal bank of canada",
       "title": "Data Engineer Intern",
       "location": "Vancouver, Canada",
@@ -1937,6 +1897,14 @@
       "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1",
       "source": "community",
       "posted": "2026-10-29"
+    },
+    {
+      "company": "scotiabank",
+      "title": "Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets",
+      "location": "Toronto, Canada",
+      "url": "https://jobs.scotiabank.com/job/Toronto-Global-Banking-and-Markets-Global-Analytic-Financial-Engineering-%28GAFE%29-InternCo-PEY-12-months-ON/608151217",
+      "source": "community",
+      "posted": "2026-11-18"
     },
     {
       "company": "seaspan",
@@ -1982,7 +1950,7 @@
       "company": "shopify",
       "title": "Engineering and Data Intern",
       "location": "Canada",
-      "url": "https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612",
+      "url": "https://www.shopify.com/careers",
       "source": "community",
       "posted": "2025-08-19"
     },
@@ -2334,7 +2302,7 @@
       "company": "tower research capital",
       "title": "Machine Learning Intern",
       "location": "Montreal, QC",
-      "url": "http://tower-research.com/open-positions/",
+      "url": "https://tower-research.com/open-positions/?gh_jid=7077280",
       "source": "community",
       "posted": "2026-10-15"
     },
@@ -2342,7 +2310,7 @@
       "company": "tower research capital",
       "title": "Software Developer Intern",
       "location": "Montreal, Canada",
-      "url": "https://tower-research.com/open-positions/?gh_jid=8212179",
+      "url": "http://tower-research.com/open-positions/",
       "source": "community",
       "posted": "2026-09-17"
     },

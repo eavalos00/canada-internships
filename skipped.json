@@ -101,15 +101,19 @@
   ],
   [
     "workday",
-    "cibc"
-  ],
-  [
-    "workday",
     "sunlife"
   ],
   [
     "workday",
-    "blackberry"
+    "nvidia"
+  ],
+  [
+    "workday",
+    "salesforce"
+  ],
+  [
+    "workday",
+    "intel"
   ],
   [
     "workday",
@@ -117,11 +121,27 @@
   ],
   [
     "workday",
+    "adobe"
+  ],
+  [
+    "workday",
+    "autodesk"
+  ],
+  [
+    "workday",
+    "mastercard"
+  ],
+  [
+    "workday",
+    "thomsonreuters"
+  ],
+  [
+    "workday",
     "qualcomm"
   ],
   [
     "workday",
-    "morganstanley"
+    "ciena"
   ],
   [
     "workday",
@@ -129,6 +149,10 @@
   ],
   [
     "workday",
-    "cadence"
+    "statestreet"
+  ],
+  [
+    "workday",
+    "pwc"
   ]
 ]
