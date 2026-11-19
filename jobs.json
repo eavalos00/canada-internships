@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18 19:52 UTC",
-  "count": 301,
+  "updated": "2026-11-19 19:58 UTC",
+  "count": 292,
   "jobs": [
     {
       "company": "acumatica",
@@ -49,14 +49,6 @@
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440",
       "source": "community",
       "posted": "2026-11-09"
-    },
-    {
-      "company": "altera",
-      "title": "FPGA Development Tools Intern",
-      "location": "Toronto, Canada",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394",
-      "source": "community",
-      "posted": "2026-10-30"
     },
     {
       "company": "altera",
@@ -288,7 +280,7 @@
       "location": "Toronto, Ontario , Canada",
       "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
       "source": "greenhouse",
-      "posted": "2026-11-17T15:40:23-05:00"
+      "posted": "2026-11-18T20:23:09-05:00"
     },
     {
       "company": "bmo",
@@ -640,7 +632,7 @@
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
       "source": "greenhouse",
-      "posted": "2026-11-18T10:44:34-05:00"
+      "posted": "2026-11-19T08:02:56-05:00"
     },
     {
       "company": "datavisor",
@@ -940,19 +932,11 @@
     },
     {
       "company": "intel",
-      "title": "Compiler Engineering Graduate Intern",
-      "location": "Canada, Toronto",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
-      "source": "workday",
-      "posted": "Posted 26 Days Ago"
-    },
-    {
-      "company": "intel",
       "title": "Compiler Engineering Intern",
-      "location": "Canada, Toronto",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-      "source": "workday",
-      "posted": "Posted 30+ Days Ago"
+      "location": "Toronto, ON",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+      "source": "community",
+      "posted": "2026-10-15"
     },
     {
       "company": "john deere",
@@ -1025,14 +1009,6 @@
       "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
       "source": "community",
       "posted": "2026-10-06"
-    },
-    {
-      "company": "lumentum",
-      "title": "Optical Algorithms and Analytics Engineering Co-op",
-      "location": "Ottawa, ON",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547",
-      "source": "community",
-      "posted": "2026-10-19"
     },
     {
       "company": "lyft",
@@ -1145,94 +1121,6 @@
       "url": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52",
       "source": "community",
       "posted": "2026-10-10"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer 2027 Intern - Mortgage Operations Analyst",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-2027-Intern---Mortgage-Operations-Analyst_JR26091425",
-      "source": "workday",
-      "posted": "Posted 16 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Canada Retail Marketing",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Canada-Retail-Marketing_JR26091051",
-      "source": "workday",
-      "posted": "Posted 8 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Commercial Mortgage",
-      "location": "Montreal, Quebec",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Summer-Intern-2027---Commercial-Mortgage_JR26091962",
-      "source": "workday",
-      "posted": "Posted 15 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Digital Marketing",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Wealth-Marketing--8-months-_JR26080978",
-      "source": "workday",
-      "posted": "Posted 8 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Enterprise Strategy",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Enterprise-Strategy_JR26091796",
-      "source": "workday",
-      "posted": "Posted 8 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Global WAM Marketing Strategy Operations",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Global-WAM-Marketing-Strategy-Operations_JR26080927",
-      "source": "workday",
-      "posted": "Posted 5 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Strategy Analyst",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Strategy-Analyst_JR26100105",
-      "source": "workday",
-      "posted": "Posted 8 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern 2027 - Transformation Delivery",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Transformation-Delivery_JR26091895",
-      "source": "workday",
-      "posted": "Posted 8 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Summer Intern/Co-op 2027 – Canadian Operations Management (8 Months)",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2027---Canadian-Operations-Management--8-Months-_JR26100178",
-      "source": "workday",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Winter Co-op 2027 - Standards Assurance and Risk Monitoring",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Standards-Assurance-and-Risk-Monitoring_JR26071466",
-      "source": "workday",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "company": "manulife",
-      "title": "Winter Co-op 2027 – Accounting Analyst",
-      "location": "Toronto, Ontario",
-      "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Accounting-Analyst_JR26090172",
-      "source": "workday",
-      "posted": "Posted 8 Days Ago"
     },
     {
       "company": "manulife financial",
@@ -1433,6 +1321,14 @@
       "url": "https://jobs.dover.com/peripheral/4f4baf30-f659-4172-881e-4497b3808ad0",
       "source": "community",
       "posted": "2026-11-10"
+    },
+    {
+      "company": "peripheral",
+      "title": "Software Engineering Intern, Viewer",
+      "location": "Toronto, Canada",
+      "url": "https://jobs.dover.com/peripheral/1ef74a94-ed4a-44b8-a08a-cc662066cf0c",
+      "source": "community",
+      "posted": "2026-11-19"
     },
     {
       "company": "physical reasoning",
@@ -1700,6 +1596,14 @@
     },
     {
       "company": "qualcomm",
+      "title": "GPU Compiler Development Intern, HW",
+      "location": "Markham, Canada",
+      "url": "https://careers.qualcomm.com/careers/job/446722198182",
+      "source": "community",
+      "posted": "2026-11-18"
+    },
+    {
+      "company": "qualcomm",
       "title": "Low Power AI Software Development Intern",
       "location": "Markham, Canada",
       "url": "https://careers.qualcomm.com/careers/job/446721143440",
@@ -1849,6 +1753,22 @@
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application",
       "source": "community",
       "posted": "2026-10-23"
+    },
+    {
+      "company": "roblox",
+      "title": "Software Engineer Intern, Engine",
+      "location": "Vancouver, Canada",
+      "url": "https://go.vansh.nyc/1Cn",
+      "source": "community",
+      "posted": "2026-11-18"
+    },
+    {
+      "company": "roblox",
+      "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
+      "source": "greenhouse",
+      "posted": "2026-11-19T02:35:33-05:00"
     },
     {
       "company": "rodan energy solutions inc.",
@@ -2064,7 +1984,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8194287",
       "source": "greenhouse",
-      "posted": "2026-10-29T10:42:09-04:00"
+      "posted": "2026-11-19T12:10:05-05:00"
     },
     {
       "company": "stripe",
@@ -2072,7 +1992,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8333122",
       "source": "greenhouse",
-      "posted": "2026-10-30T16:24:15-04:00"
+      "posted": "2026-11-19T12:10:19-05:00"
     },
     {
       "company": "stripe",
@@ -2080,7 +2000,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8194285",
       "source": "greenhouse",
-      "posted": "2026-10-29T10:42:09-04:00"
+      "posted": "2026-11-19T12:10:05-05:00"
     },
     {
       "company": "stripe",
@@ -2088,7 +2008,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8328664",
       "source": "greenhouse",
-      "posted": "2026-10-30T16:24:17-04:00"
+      "posted": "2026-11-19T12:10:19-05:00"
     },
     {
       "company": "stripe",
@@ -2096,7 +2016,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8332683",
       "source": "greenhouse",
-      "posted": "2026-11-05T19:04:45-05:00"
+      "posted": "2026-11-19T12:10:20-05:00"
     },
     {
       "company": "stripe",
@@ -2104,7 +2024,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8212517",
       "source": "greenhouse",
-      "posted": "2026-10-29T10:42:09-04:00"
+      "posted": "2026-11-19T12:10:01-05:00"
     },
     {
       "company": "stripe",
@@ -2112,7 +2032,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805",
       "source": "greenhouse",
-      "posted": "2026-11-11T17:22:06-05:00"
+      "posted": "2026-11-19T12:09:59-05:00"
     },
     {
       "company": "stripe",
@@ -2120,7 +2040,7 @@
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8157838",
       "source": "greenhouse",
-      "posted": "2026-10-29T10:42:09-04:00"
+      "posted": "2026-11-19T12:10:01-05:00"
     },
     {
       "company": "survalent",
@@ -2310,7 +2230,7 @@
       "company": "tower research capital",
       "title": "Software Developer Intern",
       "location": "Montreal, Canada",
-      "url": "http://tower-research.com/open-positions/",
+      "url": "https://tower-research.com/open-positions/?gh_jid=8212179",
       "source": "community",
       "posted": "2026-09-17"
     },
@@ -2385,6 +2305,14 @@
       "url": "https://apply.workable.com/waterworth/j/D450C48C96",
       "source": "community",
       "posted": "2026-10-29"
+    },
+    {
+      "company": "workstream",
+      "title": "Full Stack Engineer Intern",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+      "source": "community",
+      "posted": "2026-11-19"
     },
     {
       "company": "xradar",
