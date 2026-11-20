@@ -101,7 +101,23 @@
   ],
   [
     "workday",
+    "cibc"
+  ],
+  [
+    "workday",
+    "manulife"
+  ],
+  [
+    "workday",
+    "sunlife"
+  ],
+  [
+    "workday",
     "blackberry"
+  ],
+  [
+    "workday",
+    "intel"
   ],
   [
     "workday",
@@ -109,7 +125,7 @@
   ],
   [
     "workday",
-    "autodesk"
+    "adobe"
   ],
   [
     "workday",
@@ -130,10 +146,6 @@
   [
     "workday",
     "morganstanley"
-  ],
-  [
-    "workday",
-    "citi"
   ],
   [
     "workday",

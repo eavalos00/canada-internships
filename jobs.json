@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19 19:58 UTC",
-  "count": 292,
+  "updated": "2026-11-20 19:34 UTC",
+  "count": 291,
   "jobs": [
     {
       "company": "acumatica",
@@ -43,12 +43,28 @@
       "posted": "2026-11-10"
     },
     {
+      "company": "alberta investment management corporation",
+      "title": "Test Automation Intern",
+      "location": "Edmonton, Canada",
+      "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Intern--Test-Automation--12-month-term-_JR100958",
+      "source": "community",
+      "posted": "2026-11-19"
+    },
+    {
       "company": "altera",
       "title": "FPGA Design Verification Intern",
       "location": "Toronto, Canada",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440",
       "source": "community",
       "posted": "2026-11-09"
+    },
+    {
+      "company": "altera",
+      "title": "FPGA Software Engineer Intern",
+      "location": "Toronto, Canada",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
+      "source": "community",
+      "posted": "2026-11-20"
     },
     {
       "company": "altera",
@@ -115,6 +131,14 @@
       "posted": "2026-11-17"
     },
     {
+      "company": "aon3d",
+      "title": "Software Developer Intern",
+      "location": "Montreal, Canada",
+      "url": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
+      "source": "community",
+      "posted": "2026-11-20"
+    },
+    {
       "company": "aptiv",
       "title": "Cloud Engineer Intern",
       "location": "CAN Kanata, ON",
@@ -169,14 +193,6 @@
       "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
       "source": "community",
       "posted": "2026-10-22"
-    },
-    {
-      "company": "aptiv",
-      "title": "Software Engineering Intern",
-      "location": "CAN Kanata, ON",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
-      "source": "community",
-      "posted": "2026-10-13"
     },
     {
       "company": "arlo technologies",
@@ -555,14 +571,6 @@
       "posted": "2026-10-19"
     },
     {
-      "company": "citi",
-      "title": "Technology Analyst Intern, Application Development",
-      "location": "Mississauga, Canada",
-      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
-      "source": "community",
-      "posted": "2026-10-23"
-    },
-    {
       "company": "clio",
       "title": "Software Developer Co-op",
       "location": "Toronto, Canada, Vancouver, Canada, Calgary, Canada",
@@ -632,7 +640,7 @@
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
       "source": "greenhouse",
-      "posted": "2026-11-19T08:02:56-05:00"
+      "posted": "2026-11-19T16:47:39-05:00"
     },
     {
       "company": "datavisor",
@@ -683,14 +691,6 @@
       "posted": "2026-07-31"
     },
     {
-      "company": "drw",
-      "title": "Software Developer Intern",
-      "location": "Montréal",
-      "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
-      "source": "community",
-      "posted": "2026-07-31"
-    },
-    {
       "company": "eaton",
       "title": "C++ Developer Intern, Research & Development Engineering",
       "location": "Brossard, QC, Canada",
@@ -705,14 +705,6 @@
       "url": "https://jobs.ea.com/en_US/careers/SearchJobs",
       "source": "community",
       "posted": "2026-10-16"
-    },
-    {
-      "company": "electronic arts",
-      "title": "Gameplay Software Engineer Co-op",
-      "location": "Vancouver, Canada",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
-      "source": "community",
-      "posted": "2026-10-09"
     },
     {
       "company": "electronic arts",
@@ -739,6 +731,14 @@
       "posted": "2026-11-05"
     },
     {
+      "company": "elk valley resources",
+      "title": "Mining and Geology Systems Co-op",
+      "location": "Calgary, Canada",
+      "url": "https://jobs.lever.co/evr/5e2bb870-428b-4c25-9caa-2c96068428f0",
+      "source": "community",
+      "posted": "2026-11-17"
+    },
+    {
       "company": "epic games",
       "title": "Machine Learning Research Intern",
       "location": "Montreal, Canada",
@@ -755,12 +755,28 @@
       "posted": "2026-10-08"
     },
     {
+      "company": "euna solutions",
+      "title": "Associate AI-Enablement Developer Co-op",
+      "location": "Oakville, Canada",
+      "url": "https://euna.bamboohr.com/careers/822",
+      "source": "community",
+      "posted": "2026-11-19"
+    },
+    {
       "company": "fanduel",
       "title": "Product Co-op",
       "location": "Toronto, ON, Canada",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=fanduel&token=8285180",
       "source": "community",
       "posted": "2026-10-19"
+    },
+    {
+      "company": "flare",
+      "title": "Software Developer Intern",
+      "location": "Montreal, Canada",
+      "url": "https://flare.bamboohr.com/careers/29",
+      "source": "community",
+      "posted": "2026-11-20"
     },
     {
       "company": "fonds de solidarité ftq",
@@ -817,14 +833,6 @@
       "url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
       "source": "community",
       "posted": "2026-11-05"
-    },
-    {
-      "company": "geocomply",
-      "title": "Browser Security Engineer Intern",
-      "location": "Vancouver, Canada",
-      "url": "https://jobs.lever.co/geocomply-2/0c7660a9-a200-4dd0-9452-f0b87c536fcd",
-      "source": "community",
-      "posted": "2026-07-09"
     },
     {
       "company": "geospectrum technologies",
@@ -931,6 +939,14 @@
       "posted": "2026-11-16T11:29:43-05:00"
     },
     {
+      "company": "horizon trading solutions",
+      "title": "Java Developer Intern",
+      "location": "Montreal, Canada",
+      "url": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101",
+      "source": "community",
+      "posted": "2026-11-19"
+    },
+    {
       "company": "intel",
       "title": "Compiler Engineering Intern",
       "location": "Toronto, ON",
@@ -969,14 +985,6 @@
       "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002",
       "source": "community",
       "posted": "2026-10-22"
-    },
-    {
-      "company": "l3harris technologies",
-      "title": "FPGA Software Tool Developer Co-op",
-      "location": "Waterdown, Canada",
-      "url": "https://careers.l3harris.com/en/job/waterdown/fpga-software-tool-developer-co-op-waterdown-can/4832/100667892544",
-      "source": "community",
-      "posted": "2026-10-30"
     },
     {
       "company": "l3harris technologies",
@@ -1164,6 +1172,14 @@
     },
     {
       "company": "mda",
+      "title": "Engineering Student Intern, AI/ML Specialist",
+      "location": "Richmond, Canada",
+      "url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f",
+      "source": "community",
+      "posted": "2026-11-20"
+    },
+    {
+      "company": "mda",
       "title": "FPGA Designer Intern",
       "location": "Montreal, Canada",
       "url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=216d347b-2abb-43e8-8fbc-268adecf0aa3",
@@ -1225,22 +1241,6 @@
       "url": "https://job-boards.greenhouse.io/nasdaq/jobs/4453620009",
       "source": "community",
       "posted": "2026-10-27"
-    },
-    {
-      "company": "national bank of canada",
-      "title": "Artificial Intelligence Developer Intern",
-      "location": "Canada",
-      "url": "https://emplois.bnc.ca/en_CA/careers/JobDetail/36120",
-      "source": "community",
-      "posted": "2026-10-14"
-    },
-    {
-      "company": "national bank of canada",
-      "title": "Artificial Intelligence Scientist Intern",
-      "location": "Canada",
-      "url": "https://emplois.bnc.ca/en_CA/careers/JobDetail/36110",
-      "source": "community",
-      "posted": "2026-10-14"
     },
     {
       "company": "nelnet",
@@ -1768,7 +1768,7 @@
       "location": "Vancouver, British Columbia, Canada",
       "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
       "source": "greenhouse",
-      "posted": "2026-11-19T02:35:33-05:00"
+      "posted": "2026-11-20T02:35:49-05:00"
     },
     {
       "company": "rodan energy solutions inc.",
@@ -2046,7 +2046,7 @@
       "company": "survalent",
       "title": "SmartVu Developer Co-op, Quality and Infrastructure",
       "location": "Mississauga, Canada",
-      "url": "https://fitzii.com/job/101120",
+      "url": "https://go.vansh.nyc/1h4",
       "source": "community",
       "posted": "2026-11-03"
     },
@@ -2174,7 +2174,7 @@
       "company": "themis intelligence",
       "title": "Software Engineer Co-op, Data",
       "location": "Mississauga, Canada",
-      "url": "https://fitzii.com/job/100926",
+      "url": "https://go.vansh.nyc/Da",
       "source": "community",
       "posted": "2026-10-21"
     },
@@ -2230,7 +2230,7 @@
       "company": "tower research capital",
       "title": "Software Developer Intern",
       "location": "Montreal, Canada",
-      "url": "https://tower-research.com/open-positions/?gh_jid=8212179",
+      "url": "http://tower-research.com/open-positions/",
       "source": "community",
       "posted": "2026-09-17"
     },
@@ -2321,14 +2321,6 @@
       "url": "https://xradar.bamboohr.com/careers/203",
       "source": "community",
       "posted": "2026-11-17"
-    },
-    {
-      "company": "zimmer biomet holdings",
-      "title": "Software Developer Co-op",
-      "location": "Montreal, Canada",
-      "url": "https://careers.zimmerbiomet.com/us/en/job/13309",
-      "source": "community",
-      "posted": "2026-11-02"
     },
     {
       "company": "zurich insurance",
