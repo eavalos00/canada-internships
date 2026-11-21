@@ -2,7 +2,7 @@
 
 Pulled automatically from public company job boards by [Campus Talent](https://campustalent.ca), plus Canadian roles from the community list [vanshb03/Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) (MIT licence). Updated daily.
 
-**291 open roles** · last updated 2026-11-20 19:34 UTC
+**299 open roles** · last updated 2026-11-21 18:28 UTC
 
 | Company | Role | Location |
 |---|---|---|
@@ -21,8 +21,7 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | amazon | [Software Development Engineer Intern, Robotics](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | Toronto, Canada |
 | amgen | [Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) | Burnaby, Canada |
 | analog devices | [Embedded Software Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615) | Toronto, Canada, Vancouver, Canada |
-| angel host | [AI Product Engineer Co-op](https://angelhost.bamboohr.com/careers/123) | Montreal, Canada |
-| aon3d | [Software Developer Intern](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) | Montreal, Canada |
+| angel host | [AI Product Engineer Co-op](https://angelhost.bamboohr.com/careers) | Montreal, Canada |
 | aptiv | [Cloud Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380) | CAN Kanata, ON |
 | aptiv | [Cloud Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) | CAN Kanata, ON |
 | aptiv | [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375) | CAN Kanata, ON |
@@ -56,11 +55,13 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | cae | [Data Specialist Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) | Montreal, Canada |
 | cae | [Full Stack Developer Intern, Training Center Operations Experience](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) | Montreal, Canada |
 | cae | [Software Developer Intern, Content Creation Tools](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | Montreal, Canada |
+| canadian solar | [Data Engineering Intern](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603) | Kitchener, Canada |
 | canadian tire corporation, limited | [Programmer Analyst Intern](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | Mississauga, Canada |
 | capital de recherche tower | [Machine Learning Intern](https://tower-research.ca/postes-vacants/?gh_jid=8286965) | Montreal, Canada |
 | capital de recherche tower | [Software Developer Intern](https://tower-research.ca/postes-vacants/?gh_jid=8212194) | Montreal, Canada |
 | capital power | [Data Analytics Intern](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222) | Calgary, Canada |
 | capital power | [Data Science Intern](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) | Edmonton, Canada |
+| celestica | [Salesforce Developer 1 Intern](https://careers.celestica.com/job/Toronto-Student-Intern%2C-Salesforce-Developer-1-ON/1458172833) | Toronto, Canada |
 | ciena | [AI & Automation Intern - GCN Services Business Operations](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R031664) | Ottawa |
 | ciena | [AI/ML Layout Engineering Intern (Winter 2027)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Ottawa |
 | ciena | [ASIC Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750) | Ottawa |
@@ -81,6 +82,7 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | cohere | [Machine Learning Intern/Co-op  (Winter 2027)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | Canada, Europe, United States, United Kingdom |
 | cohere | [Research Internship (Winter 2027)](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | Canada, San Francisco, Europe, London, United States, United Kingdom, Toronto, Montreal |
 | colonist | [Product Developer Intern](https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd) | Canada |
+| convverge | [Junior Developer Co-op](https://convverge.bamboohr.com/careers/31) | Calgary, Canada |
 | coveo | [Frontend Developer Intern](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002) | Montreal, Canada |
 | coveo | [Software Developer Intern, Solutions Engineering Core Team](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) | Montreal, Canada |
 | critical environment technologies | [Computer Science Co-op](https://cetci.bamboohr.com/careers/92) | Delta, Canada |
@@ -94,7 +96,6 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | drw | [AI/ML Research Intern](https://www.drw.com/500) | Montréal |
 | eaton | [C++ Developer Intern, Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239542740) | Brossard, QC, Canada |
 | electronic arts | [Analytics Intern](https://jobs.ea.com/en_US/careers/SearchJobs) | Vancouver, BC, Canada |
-| electronic arts | [Software Engineer Co-op](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231) | Vancouver, Canada |
 | electronic arts | [Software Engineer Intern, C++](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) | Vancouver, Canada |
 | element fleet management | [Forward Deployed Engineer (FDE) Intern](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) | Toronto, Canada |
 | elk valley resources | [Mining and Geology Systems Co-op](https://jobs.lever.co/evr/5e2bb870-428b-4c25-9caa-2c96068428f0) | Calgary, Canada |
@@ -109,7 +110,6 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | foresters financial | [Software Engineer Co-op, AI](https://foresters.wd3.myworkdayjobs.com/en-US/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) | Toronto, Canada |
 | gastronomous technologies | [Embedded Software Engineer Co-op](https://gastronomous-technologies-inc.breezy.hr/p/85ac5afe8db4-co-op-embedded-software-engineer) | Oakville, Canada |
 | gastronomous technologies | [Full Stack Developer Co-op](https://gastronomous-technologies-inc.breezy.hr/p/2986a6fb7975-co-op-full-stack-developer) | Oakville, Canada |
-| genesys | [Web Software Developer Intern, WFM](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3) | Toronto, Canada |
 | geospectrum technologies | [Software Developer Co-op](https://geospectrum.bamboohr.com/careers/286) | Dartmouth, NS, Canada |
 | giro | [Front-End Web Development Intern](https://giro.wd10.myworkdayjobs.com/giro/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317) | Montreal, Canada |
 | giro | [Software Development Intern, Algorithms and Operations Research](https://giro.wd10.myworkdayjobs.com/giro/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314) | Montreal, Canada |
@@ -119,17 +119,18 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | global relay | [Software Development Engineer in Test Co-op](https://www.globalrelay.com/company/careers/jobs/?gh_jid=6241598004) | Vancouver, Canada |
 | google | [Student Researcher Intern](https://www.google.com/about/careers/applications/jobs/results/114416552819729094) | Waterloo, Canada, Toronto, Canada |
 | hitachi | [AI Intern, Supply Chain](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | Toronto, ON, Canada |
-| hitachi | [DevOps Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/DevOps-Analyst-Intern_R0145523) | Toronto, Canada |
 | hitachi | [ITV Automation Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/ITV-Automation-Specialist-Intern--Winter-2027--12months-_R0147187) | Toronto, ON |
 | hitachi | [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | Toronto, Canada |
-| hootsuite | [Co-op/Intern, People Team & Operations - Winter 2027](https://job-boards.greenhouse.io/hootsuite/jobs/8392381) | Vancouver, British Columbia; Toronto, Ontario; Calgary, Alberta; Ottawa, Ontario; Edmonton, Alberta |
+| hootsuite | [Co-op/Intern, Accounting - Winter 2027](https://job-boards.greenhouse.io/hootsuite/jobs/8407535) | Toronto, Ontario; Ottawa, Ontario; Greater Toronto Area |
 | horizon trading solutions | [Java Developer Intern](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) | Montreal, Canada |
 | intel | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | Toronto, ON |
+| john deere | [Data Analytics Student Intern](https://johndeere.eightfold.ai/careers/job/137484575742) | Waterloo, IA |
 | john deere | [Software Engineer Intern, Product Engineering](https://johndeere.eightfold.ai/careers/job/137483990265) | Waterloo, IA |
 | kensington | [Software Engineering Intern](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c) | Toronto, ON |
 | kinaxis | [Full Stack Developer Intern, C#](https://careers-kinaxis.icims.com/jobs/35343/intern%2c-full-stack-developer-%28c%23%29/job) | Ottawa, Canada |
 | krafton | [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) | Montreal, Canada |
 | l3harris technologies | [Software Engineering Co-op](https://careers.l3harris.com/en/job/waterdown/software-engineering-co-op-waterdown-can/4832/100667892672) | Waterdown, Canada |
+| loblaw companies | [Software Development Co-op](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000695571) | Toronto, Canada |
 | lockheed martin | [Software Development Co-op, Technical I](https://lockheedmartin.eightfold.ai/careers/job/996477136451) | Calgary, Canada |
 | lumentum | [Embedded Software Developer Co-op, Optical Circuit Switch](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | Ottawa, Canada |
 | lumentum | [Embedded Software Engineer Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | Ottawa, Canada |
@@ -145,11 +146,14 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | lyft | [Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | Toronto, Canada |
 | lyft | [Software Engineer Intern, Test Automation (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) | Montreal, Canada |
 | lyft | [UX Research Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) | Toronto, Canada |
+| mackenzie investments | [AI Program Intern](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | Toronto, Canada |
 | magnet forensics | [Information Security Analyst Co-op](https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483) | Waterloo, Canada, Ottawa, Canada |
 | magnet forensics | [Software Developer Co-op](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52) | Waterloo, Canada, Ottawa, Canada |
 | manulife financial | [Software Engineer Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1) | Waterloo, Canada |
 | manulife financial | [Software Engineer Intern, Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) | Waterloo, Canada |
 | marvell | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Ottawa, Canada |
+| mawer investment management | [AI Engineer Student Intern](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) | Calgary, Canada |
+| mawer investment management | [AI Orchestrator Student Intern](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) | Calgary, Canada |
 | mda | [Engineering Intern, DevOps](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=38d976f8-97b0-44e6-9bb9-d9d8589b8f79) | Montreal, Canada |
 | mda | [Engineering Intern, Python Test Data Processing](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0) | Montreal, Canada |
 | mda | [Engineering Student Intern, AI/ML Specialist](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) | Richmond, Canada |
@@ -158,6 +162,8 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | mda | [Software Engineering Intern](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=3521fa07-555d-4f43-bf27-218c543f008f) | Brampton, Canada |
 | mda | [Student Cyber Security Analyst Intern](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/7667adcc-47ae-477a-9183-0d8ef8bc0748/OpportunityDetail?opportunityId=6e6b20f0-d908-4f9e-9edb-f3ac82d1ab64) | Brampton, Canada |
 | member solutions | [Software Developer Intern](https://talentmanagementsolution.wd3.myworkdayjobs.com/Perseus-careers1/job/Markham-Ontario---CAN/Software-Developer-Intern_R53004) | Markham, Canada, Canada |
+| meridian credit union | [Data and Artificial Intelligence Student Intern](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | Etobicoke, Canada, St. Catharines, Canada |
+| method | [Engineering Resident Intern](https://job-boards.greenhouse.io/method/jobs/8208724003) | Canada |
 | moment energy | [Data Scientist Co-op](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) | Surrey, Canada |
 | moment energy | [Software Engineering Co-op](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | Surrey, Canada |
 | nasdaq | [Back End Software Developer Co-op](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) | Toronto, Canada |
@@ -222,6 +228,7 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | qualcomm | [Telemetry Firmware, Driver and Tools Developer Intern](https://careers.qualcomm.com/careers/job/446721989047) | Markham, Canada |
 | qualcomm | [Verification Engineer Intern](https://careers.qualcomm.com/careers/job/446721913769) | Toronto, Canada |
 | rakuten international | [eReader Quality Assurance Intern](https://rakuten.wd1.myworkdayjobs.com/kobo/job/Toronto-Canada/eReader-Quality-Assurance-Intern--12-month-contract-_1039072) | Toronto, Canada |
+| ribbon | [Software Developer Co-op, Common Cloud Services](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079) | Canada |
 | rivian and volkswagen group technologies | [Software Engineering Intern, Applications](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application) | Vancouver, Canada |
 | rivian and volkswagen group technologies | [Software Engineering Intern, Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1) | Vancouver, Canada |
 | rivian and volkswagen group technologies | [Software Engineering Intern, Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application) | Vancouver, Canada |
@@ -234,7 +241,6 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | royal bank of canada | [Software Developer Co-op, Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3) | Montreal, Canada |
 | ryan | [Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1) | North York, Canada |
 | scotiabank | [Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets](https://jobs.scotiabank.com/job/Toronto-Global-Banking-and-Markets-Global-Analytic-Financial-Engineering-%28GAFE%29-InternCo-PEY-12-months-ON/608151217) | Toronto, Canada |
-| seaspan | [Data Engineering Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) | North Vancouver, Canada |
 | semtech | [Digital IC Design Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | Ottawa, Canada |
 | semtech | [Firmware Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Ottawa, Canada |
 | shopify | [Applied Machine Learning Engineer Intern](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Montreal, Canada, Toronto, Canada, Ottawa, Canada |
@@ -261,7 +267,7 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212517) | Toronto |
 | stripe | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805) | Toronto |
 | stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8157838) | Toronto |
-| survalent | [SmartVu Developer Co-op, Quality and Infrastructure](https://go.vansh.nyc/1h4) | Mississauga, Canada |
+| survalent | [SmartVu Developer Co-op, Quality and Infrastructure](https://fitzii.com/job/101120) | Mississauga, Canada |
 | survalent | [Web Developer Co-op, Quality and Infrastructure](https://fitzii.com/job/100918) | Mississauga, Canada |
 | synopsys | [Engineering Documentation and AI Automation Co-op](https://careers.synopsys.com/job/nepean/engineering-documentation-and-ai-automation-internship-16-month-co-op/44408/103136134960) | Nepean, Canada |
 | synopsys | [Technical Engineer Intern](https://synopsys.avature.net/careers/Error) | Ottawa, Canada |
@@ -277,14 +283,16 @@ Pulled automatically from public company job boards by [Campus Talent](https://c
 | thales | [Tools and Process Development Intern](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) | Montreal, Canada |
 | the semios group | [Software Developer Co-op](https://apply.workable.com/semios/j/4B5D1FB613) | Vancouver, Canada |
 | themis intelligence | [AI Engineer Co-op](https://fitzii.com/job/100927) | Mississauga, Canada |
-| themis intelligence | [Software Engineer Co-op, Data](https://go.vansh.nyc/Da) | Mississauga, Canada |
+| themis intelligence | [Software Engineer Co-op, Data](https://fitzii.com/job/100926) | Mississauga, Canada |
 | tmx group | [AI Engineering Intern](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) | Toronto, Canada |
+| tmx group | [DevOps Analyst Intern](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/DevOps-Analyst-Intern_R-6724) | Montreal, Canada |
 | tmx group | [DevOps Intern](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern--DevOps--WinterTerm-_R-6568) | Montreal, Canada |
 | tmx group | [Jr. Security Analyst Student Intern](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644) | Toronto, Canada |
 | tmx group | [Junior Cybersecurity Operations Analyst Intern](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671) | Toronto, Canada |
+| tmx group | [Junior Vulnerability Management Analyst Intern](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Vulnerability-Management-Analyst-Intern_R-6742) | Toronto, Canada |
 | tobogganlabs | [Data Science Intern](https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003) | Montreal, Canada |
 | tower research capital | [Machine Learning Intern](https://tower-research.com/open-positions/?gh_jid=7077280) | Montreal, QC |
-| tower research capital | [Software Developer Intern](http://tower-research.com/open-positions/) | Montreal, Canada |
+| tower research capital | [Software Developer Intern](https://tower-research.com/open-positions/?gh_jid=8212179) | Montreal, Canada |
 | trc companies | [Software Engineer Intern](https://careers.trccompanies.com/jobs/26840?icims=1) | Calgary, Canada |
 | tribalscale | [Agile Software Engineer Co-op](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) | Toronto, Canada |
 | trimble | [Automated Test Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004) | Richmond Hill, Canada |

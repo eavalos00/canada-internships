@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20 19:34 UTC",
-  "count": 291,
+  "updated": "2026-11-21 18:28 UTC",
+  "count": 299,
   "jobs": [
     {
       "company": "acumatica",
@@ -126,17 +126,9 @@
       "company": "angel host",
       "title": "AI Product Engineer Co-op",
       "location": "Montreal, Canada",
-      "url": "https://angelhost.bamboohr.com/careers/123",
+      "url": "https://angelhost.bamboohr.com/careers",
       "source": "community",
       "posted": "2026-11-17"
-    },
-    {
-      "company": "aon3d",
-      "title": "Software Developer Intern",
-      "location": "Montreal, Canada",
-      "url": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
-      "source": "community",
-      "posted": "2026-11-20"
     },
     {
       "company": "aptiv",
@@ -403,6 +395,14 @@
       "posted": "2026-09-21"
     },
     {
+      "company": "canadian solar",
+      "title": "Data Engineering Intern",
+      "location": "Kitchener, Canada",
+      "url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603",
+      "source": "community",
+      "posted": "2026-11-21"
+    },
+    {
       "company": "canadian tire corporation, limited",
       "title": "Programmer Analyst Intern",
       "location": "Mississauga, Canada",
@@ -441,6 +441,14 @@
       "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
       "source": "community",
       "posted": "2026-11-12"
+    },
+    {
+      "company": "celestica",
+      "title": "Salesforce Developer 1 Intern",
+      "location": "Toronto, Canada",
+      "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Salesforce-Developer-1-ON/1458172833",
+      "source": "community",
+      "posted": "2026-11-21"
     },
     {
       "company": "ciena",
@@ -603,6 +611,14 @@
       "posted": "2026-01-22"
     },
     {
+      "company": "convverge",
+      "title": "Junior Developer Co-op",
+      "location": "Calgary, Canada",
+      "url": "https://convverge.bamboohr.com/careers/31",
+      "source": "community",
+      "posted": "2026-11-21"
+    },
+    {
       "company": "coveo",
       "title": "Frontend Developer Intern",
       "location": "Montreal, Canada",
@@ -705,14 +721,6 @@
       "url": "https://jobs.ea.com/en_US/careers/SearchJobs",
       "source": "community",
       "posted": "2026-10-16"
-    },
-    {
-      "company": "electronic arts",
-      "title": "Software Engineer Co-op",
-      "location": "Vancouver, Canada",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
-      "source": "community",
-      "posted": "2026-10-09"
     },
     {
       "company": "electronic arts",
@@ -827,14 +835,6 @@
       "posted": "2026-11-10"
     },
     {
-      "company": "genesys",
-      "title": "Web Software Developer Intern, WFM",
-      "location": "Toronto, Canada",
-      "url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
-      "source": "community",
-      "posted": "2026-11-05"
-    },
-    {
       "company": "geospectrum technologies",
       "title": "Software Developer Co-op",
       "location": "Dartmouth, NS, Canada",
@@ -908,14 +908,6 @@
     },
     {
       "company": "hitachi",
-      "title": "DevOps Analyst Intern",
-      "location": "Toronto, Canada",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/DevOps-Analyst-Intern_R0145523",
-      "source": "community",
-      "posted": "2026-11-10"
-    },
-    {
-      "company": "hitachi",
       "title": "ITV Automation Specialist Intern",
       "location": "Toronto, ON",
       "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/ITV-Automation-Specialist-Intern--Winter-2027--12months-_R0147187",
@@ -932,11 +924,11 @@
     },
     {
       "company": "hootsuite",
-      "title": "Co-op/Intern, People Team & Operations - Winter 2027",
-      "location": "Vancouver, British Columbia; Toronto, Ontario; Calgary, Alberta; Ottawa, Ontario; Edmonton, Alberta",
-      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8392381",
+      "title": "Co-op/Intern, Accounting - Winter 2027",
+      "location": "Toronto, Ontario; Ottawa, Ontario; Greater Toronto Area",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8407535",
       "source": "greenhouse",
-      "posted": "2026-11-16T11:29:43-05:00"
+      "posted": "2026-11-20T19:46:38-05:00"
     },
     {
       "company": "horizon trading solutions",
@@ -953,6 +945,14 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
       "source": "community",
       "posted": "2026-10-15"
+    },
+    {
+      "company": "john deere",
+      "title": "Data Analytics Student Intern",
+      "location": "Waterloo, IA",
+      "url": "https://johndeere.eightfold.ai/careers/job/137484575742",
+      "source": "community",
+      "posted": "2026-11-20"
     },
     {
       "company": "john deere",
@@ -993,6 +993,14 @@
       "url": "https://careers.l3harris.com/en/job/waterdown/software-engineering-co-op-waterdown-can/4832/100667892672",
       "source": "community",
       "posted": "2026-10-29"
+    },
+    {
+      "company": "loblaw companies",
+      "title": "Software Development Co-op",
+      "location": "Toronto, Canada",
+      "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000695571",
+      "source": "community",
+      "posted": "2026-11-20"
     },
     {
       "company": "lockheed martin",
@@ -1115,6 +1123,14 @@
       "posted": "2026-11-10T10:52:40-05:00"
     },
     {
+      "company": "mackenzie investments",
+      "title": "AI Program Intern",
+      "location": "Toronto, Canada",
+      "url": "https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false",
+      "source": "community",
+      "posted": "2026-11-20"
+    },
+    {
       "company": "magnet forensics",
       "title": "Information Security Analyst Co-op",
       "location": "Waterloo, Canada, Ottawa, Canada",
@@ -1153,6 +1169,22 @@
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
       "source": "community",
       "posted": "2026-10-02"
+    },
+    {
+      "company": "mawer investment management",
+      "title": "AI Engineer Student Intern",
+      "location": "Calgary, Canada",
+      "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199",
+      "source": "community",
+      "posted": "2026-11-20"
+    },
+    {
+      "company": "mawer investment management",
+      "title": "AI Orchestrator Student Intern",
+      "location": "Calgary, Canada",
+      "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0",
+      "source": "community",
+      "posted": "2026-11-20"
     },
     {
       "company": "mda",
@@ -1217,6 +1249,22 @@
       "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/Perseus-careers1/job/Markham-Ontario---CAN/Software-Developer-Intern_R53004",
       "source": "community",
       "posted": "2026-10-26"
+    },
+    {
+      "company": "meridian credit union",
+      "title": "Data and Artificial Intelligence Student Intern",
+      "location": "Etobicoke, Canada, St. Catharines, Canada",
+      "url": "https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1",
+      "source": "community",
+      "posted": "2026-11-20"
+    },
+    {
+      "company": "method",
+      "title": "Engineering Resident Intern",
+      "location": "Canada",
+      "url": "https://job-boards.greenhouse.io/method/jobs/8208724003",
+      "source": "community",
+      "posted": "2026-11-20"
     },
     {
       "company": "moment energy",
@@ -1731,6 +1779,14 @@
       "posted": "2026-10-26"
     },
     {
+      "company": "ribbon",
+      "title": "Software Developer Co-op, Common Cloud Services",
+      "location": "Canada",
+      "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079",
+      "source": "community",
+      "posted": "2026-11-19"
+    },
+    {
       "company": "rivian and volkswagen group technologies",
       "title": "Software Engineering Intern, Applications",
       "location": "Vancouver, Canada",
@@ -1768,7 +1824,7 @@
       "location": "Vancouver, British Columbia, Canada",
       "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
       "source": "greenhouse",
-      "posted": "2026-11-20T02:35:49-05:00"
+      "posted": "2026-11-20T14:34:05-05:00"
     },
     {
       "company": "rodan energy solutions inc.",
@@ -1825,14 +1881,6 @@
       "url": "https://jobs.scotiabank.com/job/Toronto-Global-Banking-and-Markets-Global-Analytic-Financial-Engineering-%28GAFE%29-InternCo-PEY-12-months-ON/608151217",
       "source": "community",
       "posted": "2026-11-18"
-    },
-    {
-      "company": "seaspan",
-      "title": "Data Engineering Intern",
-      "location": "North Vancouver, Canada",
-      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
-      "source": "community",
-      "posted": "2026-11-13"
     },
     {
       "company": "semtech",
@@ -2046,7 +2094,7 @@
       "company": "survalent",
       "title": "SmartVu Developer Co-op, Quality and Infrastructure",
       "location": "Mississauga, Canada",
-      "url": "https://go.vansh.nyc/1h4",
+      "url": "https://fitzii.com/job/101120",
       "source": "community",
       "posted": "2026-11-03"
     },
@@ -2174,7 +2222,7 @@
       "company": "themis intelligence",
       "title": "Software Engineer Co-op, Data",
       "location": "Mississauga, Canada",
-      "url": "https://go.vansh.nyc/Da",
+      "url": "https://fitzii.com/job/100926",
       "source": "community",
       "posted": "2026-10-21"
     },
@@ -2185,6 +2233,14 @@
       "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680",
       "source": "community",
       "posted": "2026-11-12"
+    },
+    {
+      "company": "tmx group",
+      "title": "DevOps Analyst Intern",
+      "location": "Montreal, Canada",
+      "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/DevOps-Analyst-Intern_R-6724",
+      "source": "community",
+      "posted": "2026-11-20"
     },
     {
       "company": "tmx group",
@@ -2211,6 +2267,14 @@
       "posted": "2026-11-04"
     },
     {
+      "company": "tmx group",
+      "title": "Junior Vulnerability Management Analyst Intern",
+      "location": "Toronto, Canada",
+      "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Vulnerability-Management-Analyst-Intern_R-6742",
+      "source": "community",
+      "posted": "2026-11-20"
+    },
+    {
       "company": "tobogganlabs",
       "title": "Data Science Intern",
       "location": "Montreal, Canada",
@@ -2230,7 +2294,7 @@
       "company": "tower research capital",
       "title": "Software Developer Intern",
       "location": "Montreal, Canada",
-      "url": "http://tower-research.com/open-positions/",
+      "url": "https://tower-research.com/open-positions/?gh_jid=8212179",
       "source": "community",
       "posted": "2026-09-17"
     },
